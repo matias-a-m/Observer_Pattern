@@ -1,5 +1,3 @@
-# Observer_Pattern
-
 # TitleUpdaterApp
 
 TitleUpdaterApp es una aplicación de muestra que utiliza Combine y Timer en SwiftUI para actualizar dinámicamente un título en una etiqueta (`UILabel`). La aplicación está escrita en Swift y utiliza el patrón MVVM (Model-View-ViewModel).
